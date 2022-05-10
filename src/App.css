@@ -2,6 +2,11 @@
   font-family: 'Montserrat', sans-serif;
 }
 
+.App-image {
+  float: left;
+  padding: 15px 15px 15px 15px;
+}
+
 .App-header {
   background-color: #282c34;
   padding: 15px 0 15px 0;
@@ -41,4 +46,8 @@ h2{
 
 textarea {
   resize: none;
+}
+
+.Filter {
+  fill: white;
 }
