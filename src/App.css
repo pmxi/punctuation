@@ -20,17 +20,20 @@
   text-align: left;
   margin: 5px 5px 0 0;
   width: 45vw;
-  height: 80vh;
+  height: 75vh;
   font-size: calc(6px + 2vmin);
   color: black;
 }
 
+.App-file-selector {
+  color: white;
+}
 
 .App-output {
   text-align: left;
   margin: 5px 0 0 5px;
   width: 45vw;
-  height: 80vh;
+  height: 75vh;
   font-size: calc(6px + 2vmin);
   color: black;
 }
