@@ -6,7 +6,7 @@ let t = "";
 function App() {
   return (
     <div className="App">
-        <a className="App-image" href="https://github.com/itsmichaelyu" aria-label="Homepage "
+        <a className="App-image" href="https://github.com/itsmichaelyu/punctuation" aria-label="Homepage "
            data-turbo="false">
             <svg className="Filter" height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true">
                 <path fill-rule="evenodd"
